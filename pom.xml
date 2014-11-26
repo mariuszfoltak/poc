@@ -8,6 +8,7 @@
     <packaging>pom</packaging>
 
     <modules>
-    </modules>
+    <module>test-with-embedded-container</module>
+  </modules>
 
 </project>
